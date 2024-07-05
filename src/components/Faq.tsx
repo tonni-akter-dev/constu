@@ -1,4 +1,4 @@
-import { faqsDatas } from "@/app/utils";
+import { faqsDatas } from "@/utils";
 import SectionHeader from "@/components/SectionHeader";
 import FaqItem from "./FaqItem";
 

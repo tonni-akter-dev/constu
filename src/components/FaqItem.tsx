@@ -1,5 +1,5 @@
 "use client";
-import { IFaqsDatas } from "@/app/utils";
+import { IFaqsDatas } from "@/utils";
 import { Plus, X } from "@phosphor-icons/react";
 import Image from "next/image";
 import { useState } from "react";

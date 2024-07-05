@@ -1,4 +1,4 @@
-import { benefitsData } from "@/app/utils";
+import { benefitsData } from "@/utils";
 import Button from "@/components/Button";
 import BenefitsCard from "./BenefitsCard";
 

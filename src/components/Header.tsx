@@ -1,5 +1,5 @@
 "use client";
-import { headerNavItems } from "@/app/utils";
+import { headerNavItems } from "@/utils";
 import HeaderDropDown from "@/components/HeaderDropDown";
 import { CaretDown, List } from "@phosphor-icons/react";
 import Image from "next/image";

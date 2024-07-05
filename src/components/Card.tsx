@@ -1,4 +1,4 @@
-import { IBlog } from '@/app/utils'
+import { IBlog } from '@/utils'
 import Image from 'next/image'
 import React from 'react'
 

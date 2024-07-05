@@ -1,5 +1,5 @@
 
-import { timelineData } from '@/app/utils';
+import { timelineData } from '@/utils';
 import TimeLineCard from '@/components/TimeLineCard';
 import React from 'react';
 

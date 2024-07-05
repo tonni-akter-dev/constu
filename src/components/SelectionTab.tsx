@@ -1,4 +1,4 @@
-import { ISelection } from '@/app/utils';
+import { ISelection } from '@/utils';
 import React from 'react';
 
 type IProps = {

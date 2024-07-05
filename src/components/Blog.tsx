@@ -1,4 +1,4 @@
-import { blogs } from '@/app/utils'
+import { blogs } from '@/utils'
 import Button from '@/components/Button'
 import Card from '@/components/Card'
 import SectionHeader from '@/components/SectionHeader'

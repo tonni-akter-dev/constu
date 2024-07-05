@@ -1,4 +1,4 @@
-import { IHeaderNavItems } from "@/app/utils";
+import { IHeaderNavItems } from "@/utils";
 import Link from "next/link";
 
 type IProps = {

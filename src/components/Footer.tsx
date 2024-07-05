@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import footerLogo from "/public/assets/footer-logo.png";
-import { footerMenu } from "@/app/utils";
+import { footerMenu } from "@/utils";
 
 const Footer = () => {
   return (

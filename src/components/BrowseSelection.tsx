@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from 'react'
 import SelectionTab from './SelectionTab'
-import { selectionTabData } from '@/app/utils'
+import { selectionTabData } from '@/utils'
 import SelectionPrice from './SelectionPrice'
 import Button from '@/components/Button'
 import SectionHeader from '@/components/SectionHeader';
