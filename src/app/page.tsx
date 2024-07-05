@@ -11,23 +11,16 @@ import ImageSec from "../components/ImageSec";
 import ProcessTimeLine from "../components/ProcessTimeLine";
 import "aos/dist/aos.css";
 import AOS from "aos";
+import Home from "../components/Home";
 
-export default function Home() {
+export default function HomePage() {
   useEffect(() => {
     AOS.init();
   }, []);
 
   return (
-    <div className="overflow-x-hidden">
-      <Banner />
-      <Details />
-      <ImageSec />
-      <Benefits />
-      <ProcessTimeLine />
-      <Faq />
-      <BrowseSelection />
-      <Blog />
-      <Contact />
-    </div>
+    <>
+    <Home/>
+    </>
   );
 }
