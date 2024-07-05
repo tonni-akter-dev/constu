@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .common-btn {
+    @apply font-alexandria font-medium text-xl inline-flex justify-center items-center
+  }
+
+  .section-padding {
+    @apply py-[160px]
+  }
+}
+
+.container {
+  max-width: 1760px;
+  width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+input:focus-visible {
+  outline: none;
+}
